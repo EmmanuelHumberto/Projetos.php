@@ -10,7 +10,7 @@ echo '<pre>';
     #Primeira forma( usando a função array)
 
 
-/*Criando array: é passado para variavel pessoas a função array, entre parenteses 
+/*Criando array: é passado para variavel chicletes a função array, entre parenteses 
 é passado cada elemento do array, contido em aspas simples e sepando cada elemento 
 por virgula.*/
 $chicletes = array('bolimbola','babalu', 'pinpong');
@@ -91,4 +91,4 @@ as partes de textos e arrays terão que ser concatenadas para que possa funciona
 para concatenar em php usa-se o ponto final.
 'string' . $temperatura["janeiro"] . 'string' */
 
-echo 'A temperatura media em janeiro foi de ' . $temperatura["janeiro"] . ' graus';
+echo 'A temperatura media em janeiro foi de ' . $temperatura["janeiro"] . ' Sgraus';
