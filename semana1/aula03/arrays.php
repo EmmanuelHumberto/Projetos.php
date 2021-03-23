@@ -92,7 +92,3 @@ para concatenar em php usa-se o ponto final.
 'string' . $temperatura["janeiro"] . 'string' */
 
 echo 'A temperatura media em janeiro foi de ' . $temperatura["janeiro"] . ' Sgraus';
-
-echo '<hr>';
-
-var_dump($temperatura);

@@ -23,10 +23,11 @@
 
     // Nesse caso é passado todas as dimensões do array pois se trata de uma matrix 
     //$temperatura['2020']['janeiro']
-    echo "janeiro de 2020 foi de {$temperatura['2020']['janeiro']} graus<br>";
+    echo "A temperatura no mes de janeiro de 2020 foi de {$temperatura['2020']['janeiro']} graus<br>";
 
     echo '<hr>';
 
     echo '<pre>';
 
-var_dump($temperatura);
+    var_dump($temperatura);
+    
